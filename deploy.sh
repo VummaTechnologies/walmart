@@ -1,2 +1,2 @@
-I am in master plus branch
+I am in master branch
 Hello This file contains deployment script
